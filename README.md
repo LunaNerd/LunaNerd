@@ -13,7 +13,7 @@ My main focus is currently on my master thesis project where I'm creating synthe
 Feel free to poke around. Some of this code is a bit older and might not reflect what I've learned over the years.
 
 # MasterThesis 🪻🌺🏵️ 🚁📷
-> Subjects: Computer Vision, synthetic data, machine learning, object detection
+> Subjects: Computer Vision, synthetic data, machine learning, object detection  
 > Used technologies:
 > - Python
 > - OpenCV
